@@ -1,6 +1,13 @@
 # created by virtualenv automatically
-*.Lib/site-packages
-*.Scripts/
+# Ignore the pyenv.cfg file
+pyenv.cfg
+
+# Ignore the Lib/site-packages directory
+Lib/site-packages/
+
+# Ignore the Scripts folder
+Scripts/
+
 *.env
 *.pyc
 *.cfg
