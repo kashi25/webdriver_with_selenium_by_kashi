@@ -14,3 +14,7 @@ Scripts/
 __pycache__/
 
 
+# git rm -r --cached .
+# git add .
+# git add .gitignore
+# git commit -m "Updated .gitignore to ignore pyenv.cfg, Lib/site-packages/, and Scripts/"
